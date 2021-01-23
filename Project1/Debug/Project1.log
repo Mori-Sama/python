@@ -1,0 +1,6 @@
+﻿  test.c
+E:\c\Project1\test.c(16,22): warning C4047: “=”:“int *”与“int”的间接级别不同
+E:\c\Project1\test.c(14,1): warning C4047: “初始化”:“int”与“int *”的间接级别不同
+E:\c\Project1\test.c(25,8): warning C4047: “函数”:“int **”与“int [10]”的间接级别不同
+E:\c\Project1\test.c(25,7): warning C4024: “sort”: 形参和实参 1 的类型不同
+  Project1.vcxproj -> E:\c\Project1\Debug\Project1.exe
