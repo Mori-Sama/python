@@ -1,5 +1,0 @@
-﻿  game.c
-  test.c
-E:\c\Project1\test.c(18,8): warning C4101: “flag”: 未引用的局部变量
-  正在生成代码...
-  Project1.vcxproj -> E:\c\Project1\x64\Debug\Project1.exe
