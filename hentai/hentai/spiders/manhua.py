@@ -7,7 +7,7 @@ import requests
 class ManhuaSpider(scrapy.Spider):
     name = 'manhua'
     # allowed_domains = ['www.xxx.com']
-    start_urls = ['https://zh.nyahentai.xyz/tag/full-color/']
+    start_urls = ['']
     # driver = webdriver.ChromeOptions()
     # driver.add_argument('--ignore-certificate-errors')
     # driver.add_argument('--ignore-ssl-errors')
